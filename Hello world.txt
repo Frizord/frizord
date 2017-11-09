@@ -1,2 +1,6 @@
+
 print("Hellow world");
 print("Hellow everybody");
+print("Hellow my dear friend");
+print("Hellow everybody");
+print("Hellow my dear friend")
